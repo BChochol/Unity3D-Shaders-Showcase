@@ -1,0 +1,1 @@
+This repository contains various shaders that were made by me to develop my shader programming skills and also to show what I'm already capable of. The pack of shaders isn't complete and will be updated in the future with my next attempts at creating new shaders.
