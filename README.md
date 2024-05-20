@@ -11,7 +11,8 @@ Effect that creates a binarized shadow in dotted patern, resembling a comicbook 
 Animated shader that imitates ocean waves. Reacting to world light, with many customizable parameters, like the number of waves, the Brownian effect, scatter of their direction, the amplitude and frequency, speed, as well as some light and color paremeters.
 
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/57a1c3f1-2150-45dc-8919-bad9d03f73aa)
-![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/5b20d5ea-b734-48fe-b71d-a2a5b6b5085f)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/2b11f682-3fdc-4cff-b00a-b774f76dc9d2)
+
 
 # Pixelation
 
