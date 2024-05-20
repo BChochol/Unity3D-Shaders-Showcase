@@ -21,5 +21,17 @@ On-screen shader that makes a pixelated effect with changable density. The scree
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/72ee2668-6319-4a36-b7de-eb4f8b92d4a0)
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/81eba01b-f787-4c8c-9b49-31a285e85bef)
 
+# RimLight
+
+Shader that lights up the model based on normals. The bigger the angles between camera and fragments are, the lighter the object appears. Has a static version, as well as an animated one which creates a pulse.
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/9adc76d5-ee01-497e-9a19-e05117ad9070)
+
+# JumpRotate
+
+Simple shader that rotates an object and moves it up and down, kind of like laying items in Minecraft. Apart from simply rotating the object, it also rotates its lighting in opposite direction so in the final effect the illumination is consistant and is not rotating.
+
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/54e9447a-4305-4e5d-978d-475a7a99c4ee)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/276b00ff-06d7-406c-8d56-42973324454e)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/94d72189-0882-4a2e-9db0-a437ee9d6501)
 
 
