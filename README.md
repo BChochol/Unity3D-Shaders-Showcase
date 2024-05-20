@@ -34,4 +34,11 @@ Simple shader that rotates an object and moves it up and down, kind of like layi
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/276b00ff-06d7-406c-8d56-42973324454e)
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/94d72189-0882-4a2e-9db0-a437ee9d6501)
 
+# Dotted
+
+Another camera shader with a filter displaying dotted pattern. 
+
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/233b2f1c-21cc-4b13-a9ab-cb881a98c9fe)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/b413b447-92cb-4894-8f76-6fb3933aae21)
+
 
