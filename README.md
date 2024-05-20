@@ -42,4 +42,11 @@ Another camera shader with a filter displaying dotted pattern.
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/233b2f1c-21cc-4b13-a9ab-cb881a98c9fe)
 ![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/b413b447-92cb-4894-8f76-6fb3933aae21)
 
+# HSV
+
+Camera shader that lets you modify the hue, saturation and value parameters. Can be used to produce such effects as greyscale, sepia or other color modifications.
+
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/8a9faff1-8561-45e9-9dd7-a48bbd499b5b)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/44354f96-443d-47c2-a953-3c4d7c2f101e)
+![image](https://github.com/BChochol/Unity3D-Shaders-Showcase/assets/57318832/f24eb7ad-378f-40ca-a33f-d2c3e062bc59)
 
